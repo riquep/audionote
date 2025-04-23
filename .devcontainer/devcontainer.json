@@ -6,6 +6,7 @@
   },
   "forwardPorts": [19000, 19001, 3000],
   "postCreateCommand": "npm install -g expo-cli",
+  "workspaceFolder": "/workspaces/audionote/app",
   "customizations": {
     "vscode": {
       "extensions": [
